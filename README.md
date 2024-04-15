@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, I'm Arnab Sarkar 👋🏽
 
-<!--
-**Asrk03/Asrk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a passionate tech enthusiast fascinated by the ever-changing world of technology. I'm eager to contribute to open-source projects and connect with the developer community.
+### Contributions
+* I'm actively seeking opportunities to contribute to open-source projects. Feel free to reach out if you have any openings!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,ts,express,react,next,nodejs,tailwind,css,postgresql,sqlite,mysql,firebase)](https://skillicons.dev)
+
+### Let's Connect!
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663) [![My Mail](https://skillicons.dev/icons?i=gmail)](sarkararnab421@gmail.com)
