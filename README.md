@@ -7,7 +7,7 @@ I'm a passionate tech enthusiast fascinated by the ever-changing world of techno
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,ts,express,react,next,nodejs,tailwind,css,postgresql,sqlite,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,ts,express,react,next,nodejs,tailwind,css,postgresql,sqlite,mysql,firebase,git)](https://skillicons.dev)
 
 ### Let's Connect!
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663) [![My Mail](https://skillicons.dev/icons?i=gmail)](sarkararnab421@gmail.com)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663)
