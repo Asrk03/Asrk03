@@ -7,7 +7,28 @@ I'm a passionate tech enthusiast fascinated by the ever-changing world of techno
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,ts,express,react,next,nodejs,tailwind,css,postgresql,sqlite,mysql,firebase,git)](https://skillicons.dev)
+<table>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=js,java,python,ts&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind,css,react,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,firebase&theme=dark"></td>
+</tr>
+</table>
 
 ### Let's Connect!
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663)
