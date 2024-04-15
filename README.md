@@ -31,4 +31,4 @@ I'm a passionate tech enthusiast fascinated by the ever-changing world of techno
 </table>
 
 ### Let's Connect!
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asrk06) &nbsp; [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/arnab0663)
